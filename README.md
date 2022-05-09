@@ -46,14 +46,16 @@ Takım 16
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz tasklara göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) göstermektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü minimum 3 günde 1 olacak şekilde Whatsapp veya Discord üzerinden yapılmasına karar verilmiştir.   -- oyun fikri Sprint #2'de netleştikten sonra daily scrumlar yoğunlaşacaktır --
 
 - **Sprint board update**: Sprint board screenshotları: 
-  -- güncellenecektir --
+![image](https://user-images.githubusercontent.com/104524997/167484524-36558c1c-2d86-44a1-b45c-3e1771f039d1.png)
+![image](https://user-images.githubusercontent.com/104524997/167484286-457bc046-c2d8-464c-9865-ca3ed951b817.png)
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
   -- güncellenecektir --
