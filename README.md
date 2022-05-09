@@ -65,6 +65,7 @@ Alınan kararlar: Farklı oyun mekaniklerini kullanarak oluşturulabilecek oyunl
     - Beğenilen sanat tarzları konuşulmuştur.
     - Takımın iletişimini düzenlemek için Github ve Miro'ya ek olarak Whatsapp grubu ve Discord sunucusu kurulmuştur. Bu bölümlerde düzenlemelere devam edilmesi kararlaştırılmıştır. 
     Bu sebeplerden dolayı oyun fikrine karar verilmesi ve PBI bir sonraki sprint'e aktarılmıştır.
+    
 Sprint Review katılımcıları: Ahmet Şerafettin Kavurmacı, Celil Bircan, Doğa Tüven, Havva Nur Ayyıldız
 
 - **Sprint Retrospective:**
