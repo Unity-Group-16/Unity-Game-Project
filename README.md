@@ -6,34 +6,28 @@ Takım 16
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
 - Ahmet Şerafettin Kavurmacı: Scrum Master
 - Celil Bircan: Team Member/Developer
 - Doğa Tüven: Team Member/3D Artist
-- Celil Bircan: Team Member/Developer
+- Havva Nur Ayyıldız: Team Member/Developer
+- -- güncellenecektir -- : Product Owner
 
 ## Ürün İsmi
 
--- (belirlenecek) --
+- -- güncellenecektir --
+
 
 ## Ürün Açıklaması
 
-- 
+- -- güncellenecektir --
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- -- güncellenecektir --
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- -- güncellenecektir --
 
 ## Product Backlog URL
 
@@ -44,13 +38,13 @@ Takım 16
 # Sprint 1
 
 - **Sprint Notları**: Takım olarak konuşmalarda 5 ayrı türde tasarım ve gerekirse prototipleme yapılmasına karar verilmiştir.
-    - Farklı oyun mekaniklerini kullanarak oluşturulabilecek oyunlar değerlendirilmiştir.
-    - Beğenilen sanat tarzları konuşulmuştur.
-    - Takımın iletişimini düzenlemek için Github ve Miro'ya ek olarak Whatsapp grubu ve Discord sunucusu kurulmuştur. Bu bölümlerde düzenlemelere devam edilmesi kararlaştırılmıştır.
+    - Farklı oyun mekaniklerini kullanarak oluşturulabilecek oyunlar değerlendirilmiştir. Sprint 1 sürecinde acele karar almayı engellemek için süreç uzatılmıştır.
+    - Beğenilen sanat tarzları ve oyunlar konuşulmuştur.
+    - Takımın iletişimini düzenlemek için Github ve Miro'ya ek olarak Whatsapp grubu ve Discord sunucusu kurulmuştur. Bu alanlarda düzenlemelere devam edilmesi kararlaştırılmıştır.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
