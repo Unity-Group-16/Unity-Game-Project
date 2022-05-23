@@ -10,24 +10,28 @@ Takım 16
 - Celil Bircan: Team Member/Developer
 - Doğa Tüven: Team Member/3D Artist
 - Havva Nur Ayyıldız: Team Member/Developer
-- -- güncellenecektir -- : Product Owner
+- Doğa Tüven : Product Owner
 
 ## Ürün İsmi
 
-- -- güncellenecektir --
+- --Rollicking Run--
 
 
 ## Ürün Açıklaması
 
-- -- güncellenecektir --
+- Rollicking Run, ismiyle müsemma, eğlenceli ve neşeli bir swerwing temelli hyper casual runner oyunudur.
 
 ## Ürün Özellikleri
 
-- -- güncellenecektir --
+- Renkli, oyuncuların (hususen hedef kitlenin) benimseyebileceği bir karakter
+- Karakterin renkli kişiliğine uygun düzenlenmiş renkli (uyumlu renk paletinden oluşan) bölüm tasarımları
+- Swerwing mekaniğiyle hareket
+- Dil bağımsız yapı ve kolay oynanış
+- Engellerden sakınma üzerine temelenen, her bölümde kademe kademe zorlaşan oyun yapısı
 
 ## Hedef Kitle
 
-- -- güncellenecektir --
+- Hedef kitle çocuk ve gençler olarak belirlense dahi, oyun 7'den 70'e rahat bir şekilde oynamaya uygundur.
 
 ## Product Backlog URL
 
@@ -81,7 +85,43 @@ Sprint Review katılımcıları: Ahmet Şerafettin Kavurmacı, Celil Bircan, Do�
 
 # Sprint 2
 
+- **Sprint Notları**: Oyunun türüne karar verilmiştir.
+- Oyunun alt türüne karar verilmiştir.
+- Oyunu standart hyper casuallardan ayıran, tematik bir hikaye yapısı gerektiği düşünülmüştür. Bunun sadece görsel olarak sunulması planlanmıştır.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ikinci'nin en azından 120 olması gerekmekte.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz tasklara göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) göstermektedir.
+
+- **Daily Scrum**: Daily Scrum yerine Whatsapp üzerinden birkaç günde bir raporlamada karar kılınmıştır. Buna rağmen rapor sıklığı istenen düzeyde sağlanamamıştır.
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Sprint 2](https://user-images.githubusercontent.com/104400097/169918449-7e9938f7-dc29-42f9-bdec-e3fcefd27b92.JPG)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  -- güncellenecektir --
+
+- **Sprint Review**: 
+Alınan kararlar: Oyun karakteri, Doğa Tüven tarafından, tasarlanmıştır
+    - Oyunun temasına karar verilmiştir.
+    - Oyunun geliştirme süreci ve swerwing mekaniğinin çalışması üzerine testler yapılmış, sonuçları değerlendirilmiştir. 
+    
+Sprint Review katılımcıları: Ahmet Şerafettin Kavurmacı, Celil Bircan, Doğa Tüven, Havva Nur Ayyıldız
+
+- **Sprint Retrospective:**
+  - Takımın kullanacağı platformlara kesin karar verilmiştir
+  - Takımın daha sık toplanabilmesi için plan yapılmıştır
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılmış, developer rolleri işlere göre tevdi edilmiştir.
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı.
+
+
+-**Diğer Notlar**:
+- Oyunun test edilmesi için hedef kitle grubundan kişilerin bulunduğu bir test grubu (ilkokul-ortaokul öğrencileri olabilir) ile etkileşime geçilmesi üzerine düşünülebilir.
 ---
 
 # Sprint 3
